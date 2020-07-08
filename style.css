@@ -1,0 +1,48 @@
+html{
+    background-color: black;
+}
+.head{
+    text-align: center;
+    font-size: 3em;
+    color: aliceblue;
+    background-color: black;
+    
+
+}
+.smol{
+    font-size: 10px;
+}
+.main{      
+      /* width: 300px;
+    height: 300px; */
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);   
+}
+.cent{
+    width: 128px;
+    margin-left: auto ;
+  margin-right: auto ;
+}
+#er {
+    text-align: center;
+    font-size: 2em;
+    color: red;
+
+}
+#res {
+    text-align: center;
+    font-size: 2em;
+    color: #ffffff;
+
+}
+.credit{
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);   
+    color: aliceblue;
+    background-color: black;
+    font-size: .5em;
+}
